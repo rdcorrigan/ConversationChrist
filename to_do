@@ -1,0 +1,8 @@
+# Simple To-Do List App
+# by Ryan
+# Python 3.8 using Geany Editor 
+# Windows 10
+# tkinter, grid geometry manager, Try/Except Block, pickle
+# Listbox Widget, Scrollbar widget, tkinter.messagebox
+
+import tkinter

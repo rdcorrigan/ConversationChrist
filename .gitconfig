@@ -1,0 +1,12 @@
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+[user]
+	name = Ryan Corrigan
+	email = ryandcorrigan@gmail.com
+[core]
+	editor = \"C:\\Users\\ryand\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
+[gui]
+	recentrepo = C:/Users/ryand/OneDrive/Desktop/Sait/git-spring2021
